@@ -112,4 +112,20 @@ This dataset can be used for:
 If you use this dataset in your research, please cite:
 
 
+---
+
+# License
+
+This dataset is released under the **MIT License** and may be used for research and educational purposes.
+
+---
+
+# Contact
+
+For questions regarding the dataset or simulation model, please contact:
+https://github.com/RAUNAKVARMA
+
+
+
+
 # Dataset File
