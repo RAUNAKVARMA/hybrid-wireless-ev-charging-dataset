@@ -110,11 +110,9 @@ This dataset can be used for:
 # Citation
 
 If you use this dataset in your research, please cite:
-@misc{Varma_Hybrid_Wireless_EV,
-author = {Varma, Raunak and Pilania, Ranveer Singh and Shringi, Sakshi},
-title = {{Hybrid Wireless EV Charging Dataset}},
-url = {https://github.com/RAUNAKVARMA/hybrid-wireless-ev-charging-dataset}
-}
+Varma, R., Pilania, R. S., Shringi, S., & Mudra, S. (2026).
+Hybrid Wireless EV Charging Dataset (Version 1.0) [Data set].
+Zenodo. https://doi.org/10.5281/zenodo.19047115
 
 ---
 
