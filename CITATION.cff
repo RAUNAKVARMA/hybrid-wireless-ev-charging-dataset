@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: Hybrid Wireless EV Charging Dataset
+message: If you use this dataset, please cite it as below.
+type: dataset
+authors:
+  - family-names: Varma
+    given-names: Raunak
+  - family-names: Pilania
+    given-names: Ranveer Singh
+  - family-names: Shringi
+    given-names: Sakshi
+year: 2026
+repository-code: https://github.com/RAUNAKVARMA/hybrid-wireless-ev-charging-dataset
+license: MIT
