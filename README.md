@@ -110,6 +110,7 @@ This dataset can be used for:
 # Citation
 
 If you use this dataset in your research, please cite:
+
 Varma, R., Pilania, R. S., Shringi, S., & Mudra, S. (2026).
 Hybrid Wireless EV Charging Dataset (Version 1.0) [Data set].
 Zenodo. https://doi.org/10.5281/zenodo.19047115
